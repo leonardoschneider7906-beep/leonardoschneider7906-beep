@@ -21,3 +21,9 @@
 - LinkedIn: no found
 - Instagram: [leo_schneider14](https://www.instagram.com/leo_schneider14/)
 - Tik Tok: [leonardogg13](https://www.tiktok.com/@leonardogg13)
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+</p>
