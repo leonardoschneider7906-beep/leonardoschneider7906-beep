@@ -1,4 +1,4 @@
-# 👋 Olá! Sou Leonardo Schneider
+# 👋 Olá! Sou  Leonardo Schneider
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Bem-vindo!&fontSize=40&fontColor=ffffff"/>
 
