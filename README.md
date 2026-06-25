@@ -1,1 +1,5 @@
-## Olá! Sou Leonardo Schneider.. Tenho interesse em múltiplas frentes da tecnologia — Sou designer gráfico, analista de redes, passando por hardware e desenvolviment. Além de desenvolver sistemas osperacionais. Acredito que a melhor solução nasce de quem sabe olhar o problema de ângulos diferentes.
+<h1 align="center">Olá! Sou Leonardo Schneider 👋</h1>
+
+<p align="center">
+  ● Desenvolvedor de sites ● Analista de redes ● Designer gráfico 🚀
+</p>
