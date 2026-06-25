@@ -25,5 +25,5 @@
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/leonardoschneider7906-beep/leonardoschneider7906-beep/output/github-contribution-grid-snake-dark.svg" />
 </p>
